@@ -4,5 +4,5 @@ High School Plant-Based Electrical Advisor and Researcher student at Suankularb 
 
 ***Demo Model***
 
-<img src="https://github.com/SkyblueLemonade/3d-model-for-IS2-subject/blob/main/Is_proto_3.png?raw=true" width="600px">
+<img src="https://github.com/SkyblueLemonade/3d-model-for-IS2-subject/blob/main/Is_proto_3.png?raw=true" width="1200px">
 <hr>
